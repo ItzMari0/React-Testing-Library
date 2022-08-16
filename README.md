@@ -322,8 +322,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
 
   > Caminho do componente: `src/pages/NotFound.js`
 
-  - Teste se a página contém um heading `h2` com o texto `Page requested not found 😭`;
-    - _Obs: Você pode usar regex para capturar o elemento sem o emoji_
+  - Teste se a página contém um heading `h2` com o texto `Page requested not found`;
 
   - Teste se a página mostra a imagem `https://media.giphy.com/media/kNSeTs31XBZ3G/giphy.gif`.
 
@@ -331,7 +330,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
   <summary><strong>O que será verificado</strong></summary><br />
 
   * Será avaliado se o arquivo teste `NotFound.test.js` contempla 100% dos casos de uso criados pelo Stryker:
-    * É exibido na tela um `h2` com o texto `Page requested not found 😭`
+    * É exibido na tela um `h2` com o texto `Page requested not found`
     * Existe uma imagem com o `src` `https://media.giphy.com/media/kNSeTs31XBZ3G/giphy.gif`
   </details>
 
