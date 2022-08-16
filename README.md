@@ -274,7 +274,7 @@ Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência 
   * Será avaliado se o arquivo teste `App.test.js` contempla 100% dos casos de uso criados pelo Stryker:
     * É exibido na tela um `link` com o texto `Home`
     * É exibido na tela um `link` com o texto `About`
-    * É exibido na tela um `link` com o texto `Favorite Pokémon`
+    * É exibido na tela um `link` com o texto `Favorite Pokémons`
 </details>
 
 ---
